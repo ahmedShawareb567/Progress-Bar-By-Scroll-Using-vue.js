@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "productName": "Watch",
+      "price": 40,
+      "category": "Rolex"
+    },
+    {
+      "productId": 2,
+      "productName": "T-Shirt",
+      "price": 50,
+      "category": "Polo"
+    },
+    {
+      "productId": 3,
+      "productName": "Chemise",
+      "price": 80,
+      "category": "TownTeam"
+    },
+    {
+      "productId": 4,
+      "productName": "Watch",
+      "price": 20,
+      "category": "Japan"
+    },
+    {
+      "productId": 5,
+      "productName": "Jacket",
+      "price": 90,
+      "category": "Zara"
+    },
+    {
+      "productId": 6,
+      "productName": "Clock",
+      "price": 30,
+      "category": "Rolex"
+    },
+    {
+      "productId": 7,
+      "productName": "short",
+      "price": 30,
+      "category": "Zara"
+    },
+    {
+      "productId": 8,
+      "productName": "Laptop",
+      "price": 120,
+      "category": "Hp"
+    }
+  ]
+}
